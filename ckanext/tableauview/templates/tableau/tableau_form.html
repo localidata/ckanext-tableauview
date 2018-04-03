@@ -1,0 +1,4 @@
+{% import 'macros/form.html' as form %}
+
+{{ form.input('viz_name', label=_('Viz name'), value=data.viz_name, error=errors.viz_name, is_required=true) }}
+{{ form.input('sheet_name', label=_('Sheet name'), value=data.sheet_name, error=errors.sheet_name, is_required=true) }}
