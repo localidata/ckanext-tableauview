@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+ckanext/__init__.py
+ckanext/tableauview/__init__.py
+ckanext/tableauview/plugin.py
+ckanext/tableauview/templates/tableau/tableau.html
+ckanext/tableauview/templates/tableau/tableau_form.html
+ckanext_tableauview.egg-info/PKG-INFO
+ckanext_tableauview.egg-info/SOURCES.txt
+ckanext_tableauview.egg-info/dependency_links.txt
+ckanext_tableauview.egg-info/entry_points.txt
+ckanext_tableauview.egg-info/namespace_packages.txt
+ckanext_tableauview.egg-info/not-zip-safe
+ckanext_tableauview.egg-info/top_level.txt

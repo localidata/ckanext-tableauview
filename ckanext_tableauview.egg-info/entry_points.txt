@@ -1,0 +1,4 @@
+
+       [ckan.plugins]
+       tableau_view=ckanext.tableauview.plugin:TableauView    
+    

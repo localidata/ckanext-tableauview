@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: ckanext-tableauview
+Version: 0.0.1
+Summary: CKAN Tableau Public ResourceView
+Home-page: http://github.com/geosolutions-it/ckanext-tableauview
+Author: Emanuele Tajariol
+Author-email: etj@geo-solutions.it
+License: AGPL
+Description:  
+Keywords: tableau view
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 2.7
